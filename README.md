@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tkullm
+- 👀 I’m interested in many things
+- 🌱 I’m currently learning Docker
+- 💞️ I’m not looking for coloborating for a moment, as a beginer. I'll really need it later
+- 📫 You can reach me here
